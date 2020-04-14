@@ -2,7 +2,7 @@ Android Native Pro
 -------------------
 The asset goal is simple. We want to build the best Android Native plugin on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/android-native-pro-125691). The plugin contains all the Android features you can think of, but in case you miss something, do not hesitate to get in touch. 
 
-[Get from The Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175) |  [Scripting Reference](https://api.stansassets.com/ios-native/) | [Wiki] https://github.com/StansAssets/com.stansassets.android-native/wiki/) | [Forum](https://forum.unity.com/threads/introducing-ios-native-pro.535120/) | [Support](https://stansassets.com/)
+[Get from The Asset Store](https://assetstore.unity.com/packages/tools/integration/ios-native-pro-119175) |  [Scripting Reference](https://api.stansassets.com/ios-native/) | [Wiki](https://github.com/StansAssets/com.stansassets.android-native/wiki/) | [Forum](https://forum.unity.com/threads/introducing-ios-native-pro.535120/) | [Support](https://stansassets.com/)
 
 About Us
 -------------------
